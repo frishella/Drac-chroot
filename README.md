@@ -1,2 +1,2 @@
-# Drac-chroot
-simple Chroot dracos 
+# Intell Wireless Installer For Dracos-Linux
+you lazy? use this script !!!
